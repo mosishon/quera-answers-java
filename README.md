@@ -13,10 +13,10 @@
 <th>لینک جواب<ht/>
 
 <tr>
-<td>test/td>
-<td>100</td>
-<td><a href="https://quera.org/">سوال</td>
-<td><a href="https://gist.github.com/">جواب</td>  
+<td>کولر یا بخاری</td>
+<td>147635</td>
+<td><a href="https://quera.org/problemset/147635/">سوال</td>
+<td><a href="https://gist.github.com/mosishon/5ce5636646a07337f3a511f84656faac">جواب</td>  
 </tr>
 
 </table>
